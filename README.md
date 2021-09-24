@@ -1,2 +1,6 @@
 # Even-Odd_Fully_Hand_Madded
-Even-Odd py Improve
+#Improve My Beast Program
+
+
+#Author :- TeenX
+#lets See Who Can Improve It Most
